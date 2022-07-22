@@ -21,7 +21,7 @@ colors:
     yellow:  '#eadd94' 
     blue:    '#8992f6' 
     magenta: '#f9ecf7' 
-    cyan:    '#01b7cc'  
+    cyan:    '#b3ffff'  
     white:   '#d2daf4' 
 
 env:
