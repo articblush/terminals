@@ -28,12 +28,12 @@ ScrollingLines=10000
 ScrollingUnlimited=TRUE
 MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
-MiscShowUnsafePasteDialog=TRUE
+MiscShowUnsafePasteDialog=FALSE
 MiscRightClickAction=TERMINAL_RIGHT_CLICK_ACTION_CONTEXT_MENU
 FontUseSystem=TRUE
-ColorBackground=#0b0b0d0d1010
-ColorForeground=#d2d2dadaf4f4
-ColorPalette=rgb(23,37,42);rgb(230,103,107);rgb(162,228,184);rgb(226,208,106);rgb(89,102,242);rgb(236,198,232);rgb(128,255,255);rgb(194,204,240);rgb(23,37,42);rgb(255,115,119);rgb(170,240,193);rgb(234,221,148);rgb(137,146,246);rgb(249,236,247);rgb(179,255,255);rgb(210,218,244)
+ColorBackground=#0b0b24234242
+ColorForeground=#cccce9e9eaea
+ColorPalette=rgb(23,37,42);rgb(230,103,107);rgb(162,228,184);rgb(226,208,106);rgb(146,187,237);rgb(236,198,232);rgb(128,255,255);rgb(207,235,236);rgb(27,44,49);rgb(255,115,119);rgb(170,240,193);rgb(234,221,148);rgb(189,214,244);rgb(249,236,247);rgb(179,255,255);rgb(237,247,248)
 ColorBoldIsBright=FALSE
-TabActivityColor=#e6e667666b6b
+TabActivityColor=#ffff73727776
 
