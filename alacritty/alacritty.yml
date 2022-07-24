@@ -1,6 +1,6 @@
 colors:
   primary:
-    background: '#0b2442'
+    background: '#040c16'
     foreground: '#cce9ea'
   cursor:
     text:   '#c2cae2'
