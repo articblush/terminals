@@ -1,0 +1,49 @@
+Xft.antialias:	1
+Xft.hinting:	1
+Xft.autohint:	0
+Xft.hintstyle:	hintslight
+Xft.rgba:	rgb
+Xft.lcdfilter:	lcddefault
+
+st.font:         JetBrainsMono Nerd Font:style:medium:pixelsize=13
+
+! window padding
+st.borderpx: 20
+
+!- 0.1 to 0.9 = transparency
+st.alpha: 1.0
+
+*background: '#040c16'
+*foreground: '#cce9ea'
+
+! Black + DarkGrey
+*color0:  #3d3e51
+*color8:  #323949
+
+! DarkRed + Red
+*color1:  #E6676B
+*color9:  #FF7377
+
+! DarkGreen + Green
+*color2:  #A2E4B8
+*color10: #AAF0C1
+
+! DarkYellow + Yellow
+*color3:  #e2d06a
+*color11: #eadd94
+
+! DarkBlue + Blue
+*color4:  #92bbed
+*color12: #bdd6f4
+
+! DarkMagenta + Magenta
+*color5:  #ecc6e8
+*color13: #f9ecf7
+
+! DarkCyan + Cyan
+*color6:  #80ffff
+*color14: #b3ffff
+
+! LightGrey + White
+*color7:  #cfebec
+*color15: #edf7f8
