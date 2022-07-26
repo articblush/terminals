@@ -13,8 +13,8 @@ st.borderpx: 20
 !- 0.1 to 0.9 = transparency
 st.alpha: 1.0
 
-*background: '#040c16'
-*foreground: '#cce9ea'
+*background: #040c16
+*foreground: #cce9ea
 
 ! Black + DarkGrey
 *color0:  #3d3e51
