@@ -1,0 +1,27 @@
+local bg = '#040c16'
+local fg = '#cce9ea'
+return {
+  color_background = bg,
+  color_foreground = fg,
+  color_bold = fg,
+  color_cursor = '#d9d7d6',
+  color_cursor_foreground = bg,
+  color_highlight = fg,
+  color_highlight_foreground = bg,
+  color_0  = '#323949',
+  color_1  = '#E6676B',
+  color_2  = '#A2E4B8',
+  color_3  = '#e2d06a',
+  color_4  = '#92bbed',
+  color_5  = '#ecc6e8',
+  color_6  = '#80ffff',
+  color_7  = '#cfebec',
+  color_8  = '#3d3e51',
+  color_9  = '#FF7377',
+  color_10 = '#AAF0C1',
+  color_11 = '#eadd94',
+  color_12 = '#bdd6f4',
+  color_13 = '#f9ecf7',
+  color_14 = '#b3ffff',
+  color_15 = '#edf7f8',
+}

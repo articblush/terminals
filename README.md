@@ -9,3 +9,4 @@ Currently articblush supports :
 - xfce4-terminal
 - st
 - xresources
+- tym
