@@ -7,3 +7,5 @@ Currently articblush supports :
 - alacritty
 - kitty
 - xfce4-terminal
+- st
+- xresources
