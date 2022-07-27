@@ -7,7 +7,7 @@ Currently articblush supports :
 - [alacritty](https://github.com/articblush/articblush-terminals/blob/main/alacritty/alacritty.yml)
 - [kitty](https://github.com/articblush/articblush-terminals/blob/main/kitty/colors.conf)
 - [xfce4-terminal](https://github.com/articblush/articblush-terminals/blob/main/terminal/terminalrc)
-- [st](https://github.com/articblush/articblush-terminals/blob/main/xresources/xresources) 
+- [st](https://github.com/articblush/articblush-terminals/blob/main/st/xresources) 
 - [xterm](https://github.com/articblush/articblush-terminals/blob/main/xresources/xresources) 
 - [Urxvt](https://github.com/articblush/articblush-terminals/blob/main/xresources/xresources) 
 - [xresources](https://github.com/articblush/articblush-terminals/blob/main/xresources/xresources)
