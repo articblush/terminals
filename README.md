@@ -1,4 +1,8 @@
-<h2 align="center">Articblush Terminals</h2> 
+<h1 align="center">
+	<img src="https://github.com/articblush/.github/blob/main/src/articblush56.png" width="25%" alt="Logo"/><br/>
+	Articblush for Terminal Emulators</a>
+  </h1>
+
  <h3 align="center">Beautiful colors for your terminals!</h3>
  
  ----
