@@ -16,3 +16,4 @@ Currently articblush supports :
 - [Urxvt](https://github.com/articblush/articblush-terminals/blob/main/xresources/xresources) 
 - [xresources](https://github.com/articblush/articblush-terminals/blob/main/xresources/xresources)
 - [tym](https://github.com/articblush/articblush-terminals/blob/main/tym/theme.lua)
+- [Wezterm](https://github.com/articblush/articblush-terminals/tree/main/wezterm)
