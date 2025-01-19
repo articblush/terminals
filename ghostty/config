@@ -1,0 +1,22 @@
+# This content should be pasted at ~/.config/ghostty/config
+# TODO: Publish this to [iterm2 color schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) so ghostty takes articblush as an official theme.
+
+background = #040c16
+foreground = #cce9ea
+
+palette = 0=#1b2c31
+palette = 1=#FF7377
+palette = 2=#AAF0C1
+palette = 3=#eadd94
+palette = 4=#bdd6f4
+palette = 5=#f9ecf7
+palette = 6=#b3ffff
+palette = 7=#edf7f8
+palette = 8=#17252A
+palette = 9=#E6676B
+palette = 10=#A2E4B8
+palette = 11=#e2d06a
+palette = 12=#92bbed
+palette = 13=#ecc6e8
+palette = 14=#80ffff
+palette = 15=#cfebec

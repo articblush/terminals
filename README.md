@@ -19,3 +19,4 @@ Currently articblush supports :
 - [tym](https://github.com/articblush/articblush-terminals/blob/main/tym/theme.lua)
 - [Wezterm](https://github.com/articblush/articblush-terminals/tree/main/wezterm)
 - [foot](https://codeberg.org/dnkl/foot)
+- [ghostty](https://github.com/articblush/articblush-terminals/blob/main/ghostty/config)
